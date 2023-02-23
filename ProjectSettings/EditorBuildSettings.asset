@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LudumDare49-main/LudumDare49-main/Assets/Scenes/Starter.unity
+    guid: f23616bcd89594b4d9f01722046439ba
+  - enabled: 1
+    path: Assets/LudumDare49-main/LudumDare49-main/Assets/Scenes/Introduction.unity
+    guid: d36fd2a6a1f90b0449067470a745a675
+  - enabled: 1
+    path: Assets/LudumDare49-main/LudumDare49-main/Assets/Scenes/Test.unity
+    guid: 78936966540931845bef02d3c77f7b97
+  - enabled: 1
+    path: Assets/LudumDare49-main/LudumDare49-main/Assets/Scenes/End.unity
+    guid: bdc97b28ba1051a43818e4cb05f581bc
+  m_configObjects: {}
